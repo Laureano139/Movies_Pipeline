@@ -1,0 +1,4 @@
+pyspark
+flask
+flask-cors
+python-dotenv
